@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <title>Cinta Untuk Nur Shakila</title>
+  <style>
+    body {
+      background: pink;
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 30px;
+      background-image: url('gambar.jpg');
+      background-size: cover;
+      background-position: center;
+      backdrop-filter: blur(4px);
+    }
+    .container {
+      background-color: rgba(255, 192, 203, 0.7);
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px #fff;
+    }
+    h1 {
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.3em;
+    }
+    audio {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Untuk Nur Shakila</h1>
+    <p>"Setiap saat yang kita lalui bersama, setiap senyumanmu, dan setiap detik yang penuh kenangan, membuatkan aku tahu bahawa aku tidak akan pernah melepaskanmu. Walaupun kita jauh, hati ini tetap milikmu. Aku menghargai setiap detik yang kita kongsi. Terima kasih kerana hadir dalam hidupku. Setiap kenangan bersama Nour Syakirah akan kekal abadi dalam hatiku, dan cintaku padamu tidak akan pernah pudar. Ini bukan sekadar janji, tetapi sebuah realiti yang akan terus hidup dalam setiap hembusan nafasku."</p>
+    <audio controls autoplay loop>
+      <source src="lagu.mp3" type="audio/mpeg">
+      Browser anda tidak sokong audio.
+    </audio>
+  </div>
+</body>
+</html>
